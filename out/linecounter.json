@@ -1,0 +1,1635 @@
+{
+    "extension": "linecounter",
+    "version": "0.2.7",
+    "workspace": "c:\\Users\\BETO\\Desktop\\burguereats",
+    "linecount": [
+        {
+            "version": "0.2.7",
+            "counttime": "2023-11-06 17:03:46",
+            "filesum": 235,
+            "codesum": 12864,
+            "commentsum": 527,
+            "blanksum": 2483,
+            "statistics": {
+                "": {
+                    "code": 29,
+                    "comment": 0,
+                    "blank": 4
+                },
+                ".md": {
+                    "code": 18,
+                    "comment": 13,
+                    "blank": 5
+                },
+                ".cmd": {
+                    "code": 113,
+                    "comment": 1,
+                    "blank": 26
+                },
+                ".properties": {
+                    "code": 16,
+                    "comment": 4,
+                    "blank": 10
+                },
+                ".lst": {
+                    "code": 29,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".html": {
+                    "code": 6268,
+                    "comment": 90,
+                    "blank": 1176
+                },
+                ".java": {
+                    "code": 1041,
+                    "comment": 317,
+                    "blank": 369
+                },
+                ".css": {
+                    "code": 5276,
+                    "comment": 102,
+                    "blank": 886
+                },
+                ".xml": {
+                    "code": 74,
+                    "comment": 0,
+                    "blank": 7
+                }
+            },
+            "filelist": [
+                {
+                    "blank": 4,
+                    "code": 29,
+                    "comment": 0,
+                    "filename": ".gitignore"
+                },
+                {
+                    "filename": ".mvn\\wrapper\\maven-wrapper.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 2,
+                    "filename": ".mvn\\wrapper\\maven-wrapper.properties"
+                },
+                {
+                    "blank": 5,
+                    "code": 18,
+                    "comment": 13,
+                    "filename": "HELP.md"
+                },
+                {
+                    "blank": 26,
+                    "code": 113,
+                    "comment": 1,
+                    "filename": "mvnw.cmd"
+                },
+                {
+                    "blank": 7,
+                    "code": 74,
+                    "comment": 0,
+                    "filename": "pom.xml"
+                },
+                {
+                    "blank": 4,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "src\\main\\java\\com\\example\\burguer_eats\\BurguerEatsApplication.java"
+                },
+                {
+                    "blank": 6,
+                    "code": 22,
+                    "comment": 4,
+                    "filename": "src\\main\\java\\com\\example\\burguer_eats\\Clases\\Cliente.java"
+                },
+                {
+                    "blank": 3,
+                    "code": 19,
+                    "comment": 4,
+                    "filename": "src\\main\\java\\com\\example\\burguer_eats\\Clases\\Empleado.java"
+                },
+                {
+                    "blank": 1,
+                    "code": 30,
+                    "comment": 0,
+                    "filename": "src\\main\\java\\com\\example\\burguer_eats\\config\\SecurityConfig.java"
+                },
+                {
+                    "blank": 19,
+                    "code": 91,
+                    "comment": 7,
+                    "filename": "src\\main\\java\\com\\example\\burguer_eats\\Controller\\ClienteControlador.java"
+                },
+                {
+                    "blank": 211,
+                    "code": 445,
+                    "comment": 216,
+                    "filename": "src\\main\\java\\com\\example\\burguer_eats\\Controller\\controlerImage.java"
+                },
+                {
+                    "blank": 45,
+                    "code": 206,
+                    "comment": 41,
+                    "filename": "src\\main\\java\\com\\example\\burguer_eats\\Controller\\controllerMenu.java"
+                },
+                {
+                    "blank": 5,
+                    "code": 12,
+                    "comment": 4,
+                    "filename": "src\\main\\java\\com\\example\\burguer_eats\\Interfaces\\IClienteService.java"
+                },
+                {
+                    "blank": 4,
+                    "code": 11,
+                    "comment": 4,
+                    "filename": "src\\main\\java\\com\\example\\burguer_eats\\Interfaces\\IEmpleadoService.java"
+                },
+                {
+                    "blank": 5,
+                    "code": 11,
+                    "comment": 5,
+                    "filename": "src\\main\\java\\com\\example\\burguer_eats\\Repositorios\\ICliente.java"
+                },
+                {
+                    "blank": 4,
+                    "code": 9,
+                    "comment": 5,
+                    "filename": "src\\main\\java\\com\\example\\burguer_eats\\Repositorios\\IEmpleado.java"
+                },
+                {
+                    "blank": 11,
+                    "code": 39,
+                    "comment": 4,
+                    "filename": "src\\main\\java\\com\\example\\burguer_eats\\Servicios\\ClienteService.java"
+                },
+                {
+                    "blank": 10,
+                    "code": 33,
+                    "comment": 4,
+                    "filename": "src\\main\\java\\com\\example\\burguer_eats\\Servicios\\EmpleadoService.java"
+                },
+                {
+                    "blank": 5,
+                    "code": 7,
+                    "comment": 1,
+                    "filename": "src\\main\\resources\\application.properties"
+                },
+                {
+                    "blank": 44,
+                    "code": 222,
+                    "comment": 0,
+                    "filename": "src\\main\\resources\\static\\css\\AddUser.css"
+                },
+                {
+                    "blank": 45,
+                    "code": 183,
+                    "comment": 1,
+                    "filename": "src\\main\\resources\\static\\css\\calendario.css"
+                },
+                {
+                    "blank": 43,
+                    "code": 162,
+                    "comment": 3,
+                    "filename": "src\\main\\resources\\static\\css\\carrito.css"
+                },
+                {
+                    "blank": 88,
+                    "code": 548,
+                    "comment": 11,
+                    "filename": "src\\main\\resources\\static\\css\\estilos.css"
+                },
+                {
+                    "blank": 55,
+                    "code": 247,
+                    "comment": 1,
+                    "filename": "src\\main\\resources\\static\\css\\Foro.css"
+                },
+                {
+                    "blank": 8,
+                    "code": 52,
+                    "comment": 0,
+                    "filename": "src\\main\\resources\\static\\css\\Pago.css"
+                },
+                {
+                    "blank": 37,
+                    "code": 319,
+                    "comment": 14,
+                    "filename": "src\\main\\resources\\static\\css\\style.css"
+                },
+                {
+                    "blank": 64,
+                    "code": 375,
+                    "comment": 2,
+                    "filename": "src\\main\\resources\\static\\css\\styleconfig.css"
+                },
+                {
+                    "blank": 43,
+                    "code": 266,
+                    "comment": 2,
+                    "filename": "src\\main\\resources\\static\\css\\stylepedido.css"
+                },
+                {
+                    "blank": 16,
+                    "code": 264,
+                    "comment": 17,
+                    "filename": "src\\main\\resources\\static\\css\\styles.css"
+                },
+                {
+                    "filename": "src\\main\\resources\\static\\img\\admin.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\main\\resources\\static\\img\\angelo.jpeg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\main\\resources\\static\\img\\Barquillonas - Precio 9.00.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\main\\resources\\static\\img\\burgereats.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\main\\resources\\static\\img\\burguer3.avif",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\main\\resources\\static\\img\\cafe.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\main\\resources\\static\\img\\camion.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\main\\resources\\static\\img\\carrito.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\main\\resources\\static\\img\\carrito1.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\main\\resources\\static\\img\\carrusel1.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\main\\resources\\static\\img\\carrusel2.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\main\\resources\\static\\img\\carrusel3.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\main\\resources\\static\\img\\carrusel4.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\main\\resources\\static\\img\\CIELO SIN GAS 520 ML - Precio 2.50.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\main\\resources\\static\\img\\CIELO SIN GAS 520 ML - Precio 2.50_1.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\main\\resources\\static\\img\\cliente.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\main\\resources\\static\\img\\COCA COLA 500 ML - Precio 3.20.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\main\\resources\\static\\img\\COCA COLA 500 ML - Precio 3.20_1.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\main\\resources\\static\\img\\COCA COLA SIN AZUCAR 500 ML - Precio 3.50.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\main\\resources\\static\\img\\COCA COLA SIN AZUCAR 500 ML - Precio 3.50_1.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\main\\resources\\static\\img\\Copas GeloCr3am - Precio 15.00.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\main\\resources\\static\\img\\Copas GeloCr3am - Precio 15.00_1.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\main\\resources\\static\\img\\Copix Crem - Precio 5.00.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\main\\resources\\static\\img\\Copix Crem - Precio 5.00_1.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\main\\resources\\static\\img\\Empanadas de Jamon y Queso - Precio 4.00.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\main\\resources\\static\\img\\Empanadas de Jamon y Queso - Precio 4.00_1.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\main\\resources\\static\\img\\FANTA 500 ML - Precio 3.20.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\main\\resources\\static\\img\\FANTA 500 ML - Precio 3.20_1.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\main\\resources\\static\\img\\FANTA PIÑA 500 ML - Precio 3.50.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\main\\resources\\static\\img\\FANTA PIÑA 500 ML - Precio 3.50_1.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\main\\resources\\static\\img\\fondo.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\main\\resources\\static\\img\\fondo1.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\main\\resources\\static\\img\\Fresua - Precio 6.00.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\main\\resources\\static\\img\\Fresua - Precio 6.00_1.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\main\\resources\\static\\img\\gabriel.jpeg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\main\\resources\\static\\img\\hamburguesa.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\main\\resources\\static\\img\\INKA KOLA 500 ML - Precio 3.20.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\main\\resources\\static\\img\\INKA KOLA SIN AZUCAR 500 ML - Precio 3.50.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\main\\resources\\static\\img\\izi.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\main\\resources\\static\\img\\jara.jpeg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\main\\resources\\static\\img\\La Doblex Tocino - Precio 12.30.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\main\\resources\\static\\img\\La Inclinxda - Precio 16.99.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\main\\resources\\static\\img\\La Krixpi - Precio 10.00.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\main\\resources\\static\\img\\La Patriota - Precio 14.63.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\main\\resources\\static\\img\\La Poderoza - Precio 11.89.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\main\\resources\\static\\img\\La Quebradora - Precio 12.69.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\main\\resources\\static\\img\\Le Clasique - Precio 13.85.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\main\\resources\\static\\img\\LOA AGUA DE MEZA 540 ML - Precio 2.00.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\main\\resources\\static\\img\\Logo.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\main\\resources\\static\\img\\NGK Papas Chicas - Precio 3.00.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\main\\resources\\static\\img\\Nuggets 10 Unidades - Precio 9.00.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\main\\resources\\static\\img\\Nuggets Porcion Grande - Precio 18.00.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\main\\resources\\static\\img\\ola.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\main\\resources\\static\\img\\Papas Fritas Grandes - Precio 6.00.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\main\\resources\\static\\img\\PROMOCION 1.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\main\\resources\\static\\img\\PROMOCION 2.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\main\\resources\\static\\img\\PROMOCION 3.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\main\\resources\\static\\img\\PROMOCION 4.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\main\\resources\\static\\img\\prueba.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\main\\resources\\static\\img\\SAN LUIS SIN GAS 625 ML - PRECIO 2.40.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\main\\resources\\static\\img\\Show.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\main\\resources\\static\\img\\The Gourtmen - Precio 12.99.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\main\\resources\\static\\img\\The king Black - Precio 22.90.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\main\\resources\\static\\img\\uwu.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 32,
+                    "code": 176,
+                    "comment": 1,
+                    "filename": "src\\main\\resources\\templates\\AddUser.html"
+                },
+                {
+                    "blank": 24,
+                    "code": 139,
+                    "comment": 0,
+                    "filename": "src\\main\\resources\\templates\\calendario.html"
+                },
+                {
+                    "blank": 34,
+                    "code": 294,
+                    "comment": 0,
+                    "filename": "src\\main\\resources\\templates\\config.html"
+                },
+                {
+                    "blank": 47,
+                    "code": 219,
+                    "comment": 1,
+                    "filename": "src\\main\\resources\\templates\\Contactanos.html"
+                },
+                {
+                    "blank": 18,
+                    "code": 157,
+                    "comment": 0,
+                    "filename": "src\\main\\resources\\templates\\Foro.html"
+                },
+                {
+                    "blank": 46,
+                    "code": 190,
+                    "comment": 0,
+                    "filename": "src\\main\\resources\\templates\\index.html"
+                },
+                {
+                    "blank": 29,
+                    "code": 175,
+                    "comment": 2,
+                    "filename": "src\\main\\resources\\templates\\inicio.html"
+                },
+                {
+                    "blank": 133,
+                    "code": 414,
+                    "comment": 40,
+                    "filename": "src\\main\\resources\\templates\\Menu.html"
+                },
+                {
+                    "blank": 45,
+                    "code": 228,
+                    "comment": 0,
+                    "filename": "src\\main\\resources\\templates\\Nosotros.html"
+                },
+                {
+                    "blank": 44,
+                    "code": 226,
+                    "comment": 0,
+                    "filename": "src\\main\\resources\\templates\\Pago.html"
+                },
+                {
+                    "blank": 34,
+                    "code": 219,
+                    "comment": 1,
+                    "filename": "src\\main\\resources\\templates\\pedidos.html"
+                },
+                {
+                    "blank": 15,
+                    "code": 168,
+                    "comment": 0,
+                    "filename": "src\\main\\resources\\templates\\Plato.html"
+                },
+                {
+                    "blank": 12,
+                    "code": 77,
+                    "comment": 0,
+                    "filename": "src\\main\\resources\\templates\\registro.html"
+                },
+                {
+                    "blank": 27,
+                    "code": 266,
+                    "comment": 0,
+                    "filename": "src\\main\\resources\\templates\\reporte.html"
+                },
+                {
+                    "blank": 48,
+                    "code": 186,
+                    "comment": 0,
+                    "filename": "src\\main\\resources\\templates\\ZonasDeReparto.html"
+                },
+                {
+                    "blank": 23,
+                    "code": 61,
+                    "comment": 18,
+                    "filename": "src\\test\\java\\com\\example\\burguer_eats\\ClienteControladorTest.java"
+                },
+                {
+                    "blank": 18,
+                    "code": 43,
+                    "comment": 1,
+                    "filename": "src\\test\\java\\com\\example\\burguer_eats\\Servicios\\ClienteServiceTest.java"
+                },
+                {
+                    "blank": 5,
+                    "code": 7,
+                    "comment": 1,
+                    "filename": "target\\classes\\application.properties"
+                },
+                {
+                    "filename": "target\\classes\\com\\example\\burguer_eats\\BurguerEatsApplication.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\example\\burguer_eats\\Clases\\Cliente.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\example\\burguer_eats\\Clases\\Empleado.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\example\\burguer_eats\\config\\SecurityConfig.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\example\\burguer_eats\\Controller\\ClienteControlador.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\example\\burguer_eats\\Controller\\controlerImage.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\example\\burguer_eats\\Controller\\controllerMenu$calendarioController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\example\\burguer_eats\\Controller\\controllerMenu$ClienteController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\example\\burguer_eats\\Controller\\controllerMenu$configController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\example\\burguer_eats\\Controller\\controllerMenu$ContactanosController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\example\\burguer_eats\\Controller\\controllerMenu$ForoController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\example\\burguer_eats\\Controller\\controllerMenu$IndexController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\example\\burguer_eats\\Controller\\controllerMenu$inicioController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\example\\burguer_eats\\Controller\\controllerMenu$LoginController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\example\\burguer_eats\\Controller\\controllerMenu$MenuController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\example\\burguer_eats\\Controller\\controllerMenu$NosotrosController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\example\\burguer_eats\\Controller\\controllerMenu$PagoController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\example\\burguer_eats\\Controller\\controllerMenu$pedidosController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\example\\burguer_eats\\Controller\\controllerMenu$PlatoController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\example\\burguer_eats\\Controller\\controllerMenu$registroController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\example\\burguer_eats\\Controller\\controllerMenu$reporteController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\example\\burguer_eats\\Controller\\controllerMenu$UserController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\example\\burguer_eats\\Controller\\controllerMenu$ZonasDeRepartoController.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\example\\burguer_eats\\Controller\\controllerMenu.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\example\\burguer_eats\\Interfaces\\IClienteService.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\example\\burguer_eats\\Interfaces\\IEmpleadoService.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\example\\burguer_eats\\Repositorios\\ICliente.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\example\\burguer_eats\\Repositorios\\IEmpleado.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\example\\burguer_eats\\Servicios\\ClienteService.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\com\\example\\burguer_eats\\Servicios\\EmpleadoService.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 44,
+                    "code": 222,
+                    "comment": 0,
+                    "filename": "target\\classes\\static\\css\\AddUser.css"
+                },
+                {
+                    "blank": 45,
+                    "code": 183,
+                    "comment": 1,
+                    "filename": "target\\classes\\static\\css\\calendario.css"
+                },
+                {
+                    "blank": 43,
+                    "code": 162,
+                    "comment": 3,
+                    "filename": "target\\classes\\static\\css\\carrito.css"
+                },
+                {
+                    "blank": 88,
+                    "code": 548,
+                    "comment": 11,
+                    "filename": "target\\classes\\static\\css\\estilos.css"
+                },
+                {
+                    "blank": 55,
+                    "code": 247,
+                    "comment": 1,
+                    "filename": "target\\classes\\static\\css\\Foro.css"
+                },
+                {
+                    "blank": 8,
+                    "code": 52,
+                    "comment": 0,
+                    "filename": "target\\classes\\static\\css\\Pago.css"
+                },
+                {
+                    "blank": 37,
+                    "code": 319,
+                    "comment": 14,
+                    "filename": "target\\classes\\static\\css\\style.css"
+                },
+                {
+                    "blank": 64,
+                    "code": 375,
+                    "comment": 2,
+                    "filename": "target\\classes\\static\\css\\styleconfig.css"
+                },
+                {
+                    "blank": 43,
+                    "code": 266,
+                    "comment": 2,
+                    "filename": "target\\classes\\static\\css\\stylepedido.css"
+                },
+                {
+                    "blank": 16,
+                    "code": 264,
+                    "comment": 17,
+                    "filename": "target\\classes\\static\\css\\styles.css"
+                },
+                {
+                    "filename": "target\\classes\\static\\img\\admin.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\static\\img\\angelo.jpeg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\static\\img\\Barquillonas - Precio 9.00.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\static\\img\\burgereats.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\static\\img\\burguer3.avif",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\static\\img\\cafe.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\static\\img\\camion.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\static\\img\\carrito.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\static\\img\\carrito1.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\static\\img\\carrusel1.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\static\\img\\carrusel2.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\static\\img\\carrusel3.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\static\\img\\carrusel4.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\static\\img\\CIELO SIN GAS 520 ML - Precio 2.50.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\static\\img\\CIELO SIN GAS 520 ML - Precio 2.50_1.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\static\\img\\cliente.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\static\\img\\COCA COLA 500 ML - Precio 3.20.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\static\\img\\COCA COLA 500 ML - Precio 3.20_1.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\static\\img\\COCA COLA SIN AZUCAR 500 ML - Precio 3.50.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\static\\img\\COCA COLA SIN AZUCAR 500 ML - Precio 3.50_1.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\static\\img\\Copas GeloCr3am - Precio 15.00.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\static\\img\\Copas GeloCr3am - Precio 15.00_1.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\static\\img\\Copix Crem - Precio 5.00.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\static\\img\\Copix Crem - Precio 5.00_1.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\static\\img\\Empanadas de Jamon y Queso - Precio 4.00.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\static\\img\\Empanadas de Jamon y Queso - Precio 4.00_1.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\static\\img\\FANTA 500 ML - Precio 3.20.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\static\\img\\FANTA 500 ML - Precio 3.20_1.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\static\\img\\FANTA PIÑA 500 ML - Precio 3.50.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\static\\img\\FANTA PIÑA 500 ML - Precio 3.50_1.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\static\\img\\fondo.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\static\\img\\fondo1.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\static\\img\\Fresua - Precio 6.00.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\static\\img\\Fresua - Precio 6.00_1.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\static\\img\\gabriel.jpeg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\static\\img\\hamburguesa.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\static\\img\\INKA KOLA 500 ML - Precio 3.20.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\static\\img\\INKA KOLA SIN AZUCAR 500 ML - Precio 3.50.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\static\\img\\izi.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\static\\img\\jara.jpeg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\static\\img\\La Doblex Tocino - Precio 12.30.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\static\\img\\La Inclinxda - Precio 16.99.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\static\\img\\La Krixpi - Precio 10.00.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\static\\img\\La Patriota - Precio 14.63.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\static\\img\\La Poderoza - Precio 11.89.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\static\\img\\La Quebradora - Precio 12.69.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\static\\img\\Le Clasique - Precio 13.85.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\static\\img\\LOA AGUA DE MEZA 540 ML - Precio 2.00.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\static\\img\\Logo.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\static\\img\\NGK Papas Chicas - Precio 3.00.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\static\\img\\Nuggets 10 Unidades - Precio 9.00.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\static\\img\\Nuggets Porcion Grande - Precio 18.00.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\static\\img\\ola.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\static\\img\\Papas Fritas Grandes - Precio 6.00.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\static\\img\\PROMOCION 1.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\static\\img\\PROMOCION 2.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\static\\img\\PROMOCION 3.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\static\\img\\PROMOCION 4.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\static\\img\\prueba.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\static\\img\\SAN LUIS SIN GAS 625 ML - PRECIO 2.40.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\static\\img\\Show.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\static\\img\\The Gourtmen - Precio 12.99.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\static\\img\\The king Black - Precio 22.90.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\classes\\static\\img\\uwu.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 32,
+                    "code": 176,
+                    "comment": 1,
+                    "filename": "target\\classes\\templates\\AddUser.html"
+                },
+                {
+                    "blank": 24,
+                    "code": 139,
+                    "comment": 0,
+                    "filename": "target\\classes\\templates\\calendario.html"
+                },
+                {
+                    "blank": 34,
+                    "code": 294,
+                    "comment": 0,
+                    "filename": "target\\classes\\templates\\config.html"
+                },
+                {
+                    "blank": 47,
+                    "code": 219,
+                    "comment": 1,
+                    "filename": "target\\classes\\templates\\Contactanos.html"
+                },
+                {
+                    "blank": 18,
+                    "code": 157,
+                    "comment": 0,
+                    "filename": "target\\classes\\templates\\Foro.html"
+                },
+                {
+                    "blank": 46,
+                    "code": 190,
+                    "comment": 0,
+                    "filename": "target\\classes\\templates\\index.html"
+                },
+                {
+                    "blank": 29,
+                    "code": 175,
+                    "comment": 2,
+                    "filename": "target\\classes\\templates\\inicio.html"
+                },
+                {
+                    "blank": 133,
+                    "code": 414,
+                    "comment": 40,
+                    "filename": "target\\classes\\templates\\Menu.html"
+                },
+                {
+                    "blank": 45,
+                    "code": 228,
+                    "comment": 0,
+                    "filename": "target\\classes\\templates\\Nosotros.html"
+                },
+                {
+                    "blank": 44,
+                    "code": 226,
+                    "comment": 0,
+                    "filename": "target\\classes\\templates\\Pago.html"
+                },
+                {
+                    "blank": 34,
+                    "code": 219,
+                    "comment": 1,
+                    "filename": "target\\classes\\templates\\pedidos.html"
+                },
+                {
+                    "blank": 15,
+                    "code": 168,
+                    "comment": 0,
+                    "filename": "target\\classes\\templates\\Plato.html"
+                },
+                {
+                    "blank": 12,
+                    "code": 77,
+                    "comment": 0,
+                    "filename": "target\\classes\\templates\\registro.html"
+                },
+                {
+                    "blank": 27,
+                    "code": 266,
+                    "comment": 0,
+                    "filename": "target\\classes\\templates\\reporte.html"
+                },
+                {
+                    "blank": 48,
+                    "code": 186,
+                    "comment": 0,
+                    "filename": "target\\classes\\templates\\ZonasDeReparto.html"
+                },
+                {
+                    "blank": 0,
+                    "code": 16,
+                    "comment": 0,
+                    "filename": "target\\maven-status\\maven-compiler-plugin\\compile\\default-compile\\createdFiles.lst"
+                },
+                {
+                    "blank": 0,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "target\\maven-status\\maven-compiler-plugin\\compile\\default-compile\\inputFiles.lst"
+                },
+                {
+                    "filename": "target\\test-classes\\com\\example\\burguer_eats\\ClienteControladorTest.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "target\\test-classes\\com\\example\\burguer_eats\\Servicios\\ClienteServiceTest.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                }
+            ]
+        }
+    ]
+}
